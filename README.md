@@ -1,4 +1,4 @@
-# Mask Detection using Yolov3
+# Face Mask Detection using Yolov3
 
 Using yolov3 to trained a muliple mask detection model.
 
