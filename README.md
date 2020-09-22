@@ -13,7 +13,7 @@ Output:
 
 ![alt text](https://github.com/rbsathish/Face_Mask_Detection/blob/master/Images/final_result_single.gif)
 
-![alt text](https://github.com/rbsathish/Face_Mask_Detection/blob/master/Images/final_result_multiple_mask_detection.gif)
+![alt text](https://github.com/rbsathish/Face_Mask_Detection/blob/master/Images/final_result_multiple_mask_detection_Trim.gif)
 
 ![alt text](https://github.com/rbsathish/Face_Mask_Detection/blob/master/Images/1.JPG)
 
